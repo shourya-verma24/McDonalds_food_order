@@ -1,0 +1,14 @@
+html {
+  height: 100%;
+  width: 100%;
+  background-color: lightblue;
+  text-align: center;
+}
+button{
+  text-align: center;
+  border: 2px solid yellow;
+  background-color: darkred;
+}
+img{
+  height: 150px;
+}
